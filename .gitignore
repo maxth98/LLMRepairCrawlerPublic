@@ -1,0 +1,5 @@
+/.idea/
+/Backend/.chroma/
+/Backend/*.log
+/Backend/data/*.log
+/Backend/src/__pycache__/
